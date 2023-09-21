@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br>Academico de Análise e Desenvolvimento de Sistemas, Desenvolvedor Chatbot, Viciado em Aprender Novas Linguagens e Frameworks, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<p align="center">I ❤️ solver great challenges using tech. <br><br>Academico de Análise e Desenvolvimento de Sistemas, Desenvolvedor Chatbot, Viciado em Aprender Novas Linguagens e Frameworks, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
  <div align="center">
   <a href="https://github.com/MamaduJalo/alfa">
